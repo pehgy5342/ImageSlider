@@ -12,4 +12,4 @@
 
 ## Demo 
 
-[!GIF](ImageSlider_Demo)
+[!](ImageSlider_Demo)
