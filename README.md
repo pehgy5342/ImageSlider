@@ -1,5 +1,5 @@
 # ImageSlider
-圖片幻燈片
+圖片幻燈片，主要用ViewPager去實現
 
 ## Views
 * ViewPager
