@@ -2,6 +2,7 @@
 圖片幻燈片
 
 ## Views
+* ViewPager
 * ImageView
 
 ## Layout
