@@ -5,6 +5,13 @@
 * ViewPager
 * ImageView
 
+## PagerAdapter
+* 主要有四個必須override方法
+  * getCount
+  * instantiateItem
+  * isViewFromObject
+  * destroyItem
+
 ## Layout
 * ConstraintLayout
 
